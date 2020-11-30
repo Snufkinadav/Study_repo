@@ -18,6 +18,7 @@ def check_guess(mylist,guess):
         print("Nope, this is not what I chose!")
         print(f"my choise was {mylist}")
 
+
 def_list = ['','O','']
 mix_list = shuffle_list(def_list)
 guess = player_guess()
