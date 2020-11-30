@@ -1,5 +1,5 @@
 from random import shuffle
-
+# changes
 def shuffle_list(i):
     shuffle(i)
     return i
@@ -17,6 +17,7 @@ def check_guess(mylist,guess):
     else:
         print("Nope, this is not what I chose!")
         print(f"my choise was {mylist}")
+
 
 def_list = ['','O','']
 mix_list = shuffle_list(def_list)
