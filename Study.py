@@ -1,5 +1,5 @@
 from random import shuffle
-# changes
+
 def shuffle_list(i):
     shuffle(i)
     return i
