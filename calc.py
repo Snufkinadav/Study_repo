@@ -19,6 +19,7 @@ def button_add():
     f_num = int(first_number)
     e.delete(0, END)
 
+
 #input entry window
 e = Entry(root, width =35, borderwidth = 5)
 e.grid(row=0,column=0,columnspan=3, padx=10,pady=10)
