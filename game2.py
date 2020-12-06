@@ -1,6 +1,6 @@
-row1 = [,,]
-row2 = [,,]
-row3 = [,,]
+row1 = ['','','',]
+row2 = ['','','',]
+row3 = ['','','',]
 
 def display(row1,row2,row3):
     print(row1)
